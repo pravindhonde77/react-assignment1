@@ -1,0 +1,13 @@
+.App{
+    text-align: left;
+    margin-left: 30px;
+  }
+  li{
+    margin-left: 50px;
+  }
+  #sq{
+    list-style-type: square;
+  }
+  #disc{
+    list-style-type: circle;
+  }
